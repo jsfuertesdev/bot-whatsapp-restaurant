@@ -1,0 +1,102 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '573008268737@s.whatsapp.net',
+    fromMe: false,
+    id: '039B1978DAA1592D77594AA6D045FA97',
+    participant: undefined
+  },
+  messageTimestamp: 1716952870,
+  pushName: 'Sebastian',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '573008268737'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_30709a33-1438-4351-b27e-dff824d9d240',
+  keyword: 'key_c4b11c81-6bd3-4449-a7ff-2620bdc7c4aa',
+  answer: 'Este es el flujo Welcome',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 100,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '03193983ba099ebc256f367c666f36fa'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573008268737@s.whatsapp.net',
+    fromMe: false,
+    id: '09E8971B0C4A738E3698E62CD218C0F6',
+    participant: undefined
+  },
+  messageTimestamp: 1716952879,
+  pushName: 'Sebastian',
+  broadcast: false,
+  message: Message {
+    conversation: 'Menu',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Menu',
+  from: '573008268737'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2707e62d-545d-4978-893b-1ec8a62dd667',
+  keyword: 'key_d5f661d8-e84e-4196-bd90-e062c336f8f3',
+  answer: 'Elegi alguna de las opciones\r\n' +
+    '\r\n' +
+    'Opcion 1  - Menu\r\n' +
+    'Opcion 2  - Reservar mesas\r\n' +
+    'Opcion 3  - Hacer consultas\r\n' +
+    '\r\n' +
+    'Opcion 0  - salir',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '60967b04a00adff3b025ddca0593cd43'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573008268737@s.whatsapp.net',
+    fromMe: false,
+    id: 'AD8D5FBAC1B18F6B8A061ADA103A2291',
+    participant: undefined
+  },
+  messageTimestamp: 1716952887,
+  pushName: 'Sebastian',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '573008268737'
+}

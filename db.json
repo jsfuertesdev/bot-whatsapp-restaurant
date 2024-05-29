@@ -1,0 +1,128 @@
+[
+  {
+    "ref": "ans_2eb3f622-cc48-46b4-8494-052e6773dd8b",
+    "keyword": "key_d8d72be9-285c-4736-a576-36fd9e8afd3e",
+    "answer": "Este es el flujo Welcome",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 100,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "975f060211b5c4ddf252defd9a9c035c",
+    "from": "573008268737"
+  },
+  {
+    "ref": "d39066f5-fe39-42a6-a296-e05f97f0bf32",
+    "keyword": null,
+    "answer": "Escribe \"Menu\"",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "573008268737",
+    "refSerialize": "573320c30e4559975f75c9c1172e8a05"
+  },
+  {
+    "ref": "2b7f3d65-73a8-4284-b4d8-51629f08734b",
+    "keyword": "975f060211b5c4ddf252defd9a9c035c",
+    "answer": "3",
+    "options": {},
+    "from": "573008268737",
+    "refSerialize": "7af65864494b12f0f7ef00589f4d3979"
+  },
+  {
+    "ref": "ans_2eb3f622-cc48-46b4-8494-052e6773dd8b",
+    "keyword": "key_d8d72be9-285c-4736-a576-36fd9e8afd3e",
+    "answer": "Este es el flujo Welcome",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 100,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "975f060211b5c4ddf252defd9a9c035c",
+    "from": "573008268737"
+  },
+  {
+    "ref": "caaf9c33-55d9-49d6-9051-a46626df4b39",
+    "keyword": null,
+    "answer": "Escribe \"Menu\"",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "573008268737",
+    "refSerialize": "573320c30e4559975f75c9c1172e8a05"
+  },
+  {
+    "ref": "2216c4c9-5fde-4094-99c8-838fc357f475",
+    "keyword": "975f060211b5c4ddf252defd9a9c035c",
+    "answer": "Menu",
+    "options": {},
+    "from": "573008268737",
+    "refSerialize": "1943ef5752ef89f46d7b613aaf765c9b"
+  },
+  {
+    "ref": "ans_8b127e03-da23-4680-b515-456f358b9eaf",
+    "keyword": "key_ef97eb53-ed67-4c41-ad2b-b3a292e695c7",
+    "answer": "Elegi alguna de las opciones\r\n\r\nOpcion 1  - Menu\r\nOpcion 2  - Reservar mesas\r\nOpcion 3  - Hacer consultas\r\n\r\nOpcion 0  - salir",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "fa34ea4eabce1b66ba709bf876d0b06f",
+    "from": "573008268737"
+  },
+  {
+    "ref": "3818a899-98a6-4a9d-a561-937de9f2cb23",
+    "keyword": "fa34ea4eabce1b66ba709bf876d0b06f",
+    "answer": "2",
+    "options": {},
+    "from": "573008268737",
+    "refSerialize": "2294c3d08b53a6effa5df696a15b9d30"
+  },
+  {
+    "ref": "ans_f1dfa0f2-af78-4567-ad80-648b0b45a2a2",
+    "keyword": "key_da3430fc-4c7d-433d-a8b4-fc2a8783d799",
+    "answer": "Este es el flow reservas: https://servicioalcliente.crepesywaffles.com/es/-ry66ResTq",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "a6250c4755c5913cb01efa30d9b45f47",
+    "from": "573008268737"
+  }
+]
